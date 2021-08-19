@@ -1,0 +1,3 @@
+Copy kan folder U8glib pada pada folder library dengan cara berikut :
+
+buka This PC > Documents > Arduino > Library > Paste
