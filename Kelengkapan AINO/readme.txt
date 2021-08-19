@@ -1,5 +1,3 @@
-# aitumega
-
 PERHATIAN !!
 
 ------------------------------------------------------------------------
@@ -17,5 +15,4 @@ WA 		: 0896-8845-8877 (OWNER)
 Email 		: aitumega.id@gmail.com 
 TOKOPEDIA 	: AITUMEGA 
 YOUTUBE 	: AITUMEGA
-
 ****************************************
